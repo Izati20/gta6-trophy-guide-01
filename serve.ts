@@ -2,7 +2,7 @@
 // app/ at http://localhost:8080 (pass --port <n> for another port). It
 // maps the file extensions this app uses, refuses paths that escape
 // app/, and does nothing else — development convenience only.
-import { createReadStream, statSync } from 'node:fs';
+import { readFile } from 'node:fs/promises';
 import { createServer } from 'node:http';
 import { extname, join, normalize, resolve, sep } from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -10,8 +10,8 @@ import { fileURLToPath } from 'node:url';
 const appRoot = resolve(fileURLToPath(new URL('./app', import.meta.url)));
 
 function pickPort(): number {
-  const flag = process.argv.indexOf('--port');
-  const parsed = flag === -1 ? 8080 : Number(process.argv[flag + 1]);
+  const at = process.argv.indexOf('--port');
+  const parsed = at === -1 ? 8080 : Number(process.argv[at + 1]);
   return Number.isInteger(parsed) && parsed > 0 && parsed < 65536 ? parsed : 8080;
 }
 
@@ -29,7 +29,7 @@ const TYPES: Record<string, string> = {
 
 const port = pickPort();
 
-createServer((req, res) => {
+createServer(async (req, res) => {
   let path: string;
   try {
     path = decodeURIComponent(new URL(req.url ?? '/', 'http://localhost').pathname);
@@ -43,21 +43,17 @@ createServer((req, res) => {
     res.writeHead(403).end('forbidden');
     return;
   }
-  let size: number;
   try {
-    const st = statSync(file);
-    if (!st.isFile()) throw new Error('not a file');
-    size = st.size;
+    const body = await readFile(file);
+    res.writeHead(200, {
+      'content-type': TYPES[extname(file).toLowerCase()] ?? 'application/octet-stream',
+      'content-length': body.length,
+      'cache-control': 'no-store',
+    });
+    res.end(body);
   } catch {
     res.writeHead(404).end('not found');
-    return;
   }
-  res.writeHead(200, {
-    'content-type': TYPES[extname(file).toLowerCase()] ?? 'application/octet-stream',
-    'content-length': size,
-    'cache-control': 'no-store',
-  });
-  createReadStream(file).pipe(res);
 }).listen(port, '127.0.0.1', () => {
   console.log(`guide is on http://localhost:${port}`);
 });

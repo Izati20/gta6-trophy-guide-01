@@ -2,7 +2,7 @@
 //
 // The entry lives beside this file: app/ is the offline trophy guide
 // (index.html plus its modules, stylesheet and data/trophies.json with
-// all 55 guides) and screenshots/ holds the renders of it the judge
+// all 55 methods) and screenshots/ holds the renders of it the judge
 // sees first. This program hands it in the way the scorer expects:
 // copy app/ and screenshots/ into the output directory, then ask the
 // vendored make.fun library to write dossier.json over exactly those
@@ -31,22 +31,22 @@ const LIMITS = {
   app_max_bytes: 50331648,
 };
 
-function repoRoot(): string {
+function gatherRoot(): string {
   return fileURLToPath(new URL('.', import.meta.url));
 }
 
-function outDir(): string {
+function outputDir(): string {
   const env = process.env.MAKEFUN_OUTPUT_DIR;
   return env === undefined || env === '' ? '/output' : env;
 }
 
-function copyDir(from: string, to: string): void {
+function copyTree(from: string, to: string): void {
   cpSync(from, to, { recursive: true });
 }
 
 // Fail loudly rather than hand in a guide whose data file lost trophies
 // on the way: parse the copied trophies.json back and count its entries.
-function checkGuide(copiedApp: string): void {
+function assertGuide(copiedApp: string): void {
   const raw = readFileSync(join(copiedApp, 'data', 'trophies.json'), 'utf8');
   const parsed = JSON.parse(raw) as { trophies?: unknown };
   const list = Array.isArray(parsed) ? parsed : parsed.trophies;
@@ -56,15 +56,15 @@ function checkGuide(copiedApp: string): void {
   }
   for (const item of list as Array<{ name?: unknown; guide?: unknown }>) {
     if (typeof item.name !== 'string' || typeof item.guide !== 'string' || item.guide.trim() === '') {
-      throw new Error('every trophy needs a name and a non-blank guide');
+      throw new Error('every trophy needs a name and a non-blank method');
     }
   }
-  console.log(`checked trophies.json: ${count} trophies, each with a guide`);
+  console.log(`checked trophies.json: ${count} trophies, each with a method`);
 }
 
 // The judge reads the screenshots first, so check them the same way:
 // 3 or 4 images, each a whole JPEG/PNG under the scorer's byte cap.
-function copyShots(from: string, to: string): void {
+function copyImages(from: string, to: string): void {
   mkdirSync(to, { recursive: true });
   if (!existsSync(from)) {
     console.log('no screenshots/ beside main.ts — handing in the guide alone');
@@ -82,20 +82,20 @@ function copyShots(from: string, to: string): void {
       throw new Error(`screenshot ${name} is ${bytes} bytes, over the ${LIMITS.screenshots.max_bytes} cap`);
     }
   }
-  copyDir(from, to);
+  copyTree(from, to);
   console.log(`copied screenshots/ (${shots.length} images, cover ${shots[0]})`);
 }
 
 function handIn(): void {
-  const root = repoRoot();
-  const out = outDir();
+  const root = gatherRoot();
+  const out = outputDir();
   mkdirSync(out, { recursive: true });
 
-  copyDir(join(root, 'app'), join(out, 'app'));
+  copyTree(join(root, 'app'), join(out, 'app'));
   console.log('copied app/ (index.html, modules, style.css, data/trophies.json)');
-  checkGuide(join(out, 'app'));
+  assertGuide(join(out, 'app'));
 
-  copyShots(join(root, 'screenshots'), join(out, 'screenshots'));
+  copyImages(join(root, 'screenshots'), join(out, 'screenshots'));
 
   const dossier = buildDossier(out, LIMITS);
   writeFileSync(join(out, 'dossier.json'), dossier);

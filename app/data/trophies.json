@@ -1,7 +1,7 @@
 {
   "game": "Grand Theft Auto VI",
   "platform": "PlayStation 5",
-  "list": "the official 55 trophies, as listed 2026-11-18",
+  "list": "the official 55 trophies, 2026-11-18",
   "counts": { "total": 55, "platinum": 1, "gold": 2, "silver": 6, "bronze": 46, "hidden": 28, "online": 0 },
   "estimates": {
     "difficulty": "4/10 (ESTIMATE - PowerPyx rating as reported by launch-day guides)",
@@ -20,8 +20,8 @@
       "tags": ["story", "activities", "collectibles"],
       "missable": "no",
       "stage": 4,
-      "guide": "The platinum is the reward for the other 54, so it is never something to chase on its own: follow the four roadmap stages in order and it unlocks by itself when the last trophy lands. Launch-day reporting agrees the whole list is single-player, with no online trophies and no difficulty setting, which means one careful playthrough is enough. The difficulty (4/10) and time (~200 hours) figures quoted on this page are PowerPyx estimates passed on by KeenGamer and GTA-Zone — treat them as rough guides, not promises.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)", "PowerPyx difficulty/time estimate via KeenGamer"]
+      "guide": "The platinum lands on its own the moment the other 54 trophies are in your collection — there is nothing extra to do for it. Work the list below in stage order and this one closes the book.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)", "PowerPyx difficulty/time estimate via KeenGamer"]
     },
     {
       "id": "just-like-paradise",
@@ -33,8 +33,8 @@
       "tags": ["story"],
       "missable": "no",
       "stage": 1,
-      "guide": "One of the first story trophies: finish the Chapter 1 mission Gone Fishing and it unlocks on its own — nothing here can be missed. Treat these opening minutes as a warm-up: get comfortable with the controls and switch on progress and collectible notifications in Settings before you start roaming, because the habits you build now pay off across the whole list.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+      "guide": "Play the opening mission Gone Fishing to the end. It is the first mission of the game, so this one is unmissable — finish the intro and it pops.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
     },
     {
       "id": "paradise-lost",
@@ -46,8 +46,8 @@
       "tags": ["story"],
       "missable": "no",
       "stage": 1,
-      "guide": "Awarded for finishing Chapter 1; it may pop a moment after the chapter turns over, which is normal. Before you leave Chapter 1 behind, do the single thing this guide flags in red: the Chapter 1 balcony meditation with Lucia at home (see Positive Mental Attitude). Keep a manual save at the chapter break too — with no mission replay in the game, saves are your only way back.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+      "guide": "See Chapter 1 through to its final mission. Chapter trophies are story beats, so keep playing and this one arrives on its own.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
     },
     {
       "id": "t-ass-drug-money",
@@ -59,8 +59,8 @@
       "tags": ["story"],
       "missable": "no",
       "stage": 1,
-      "guide": "The Chapter 2 completion trophy, awarded as Chapter 3 opens. Chapter 2 is where the duo's toolkit arrives — the partner call, Combat Focus and the Scooter Bros app — so several free-roam trophies (Hot Together, On the Spot, and the paired gym work behind Personal Best) only become possible from here on. Nothing in this chapter can be missed.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+      "guide": "Finish Chapter 2 in full. Nothing optional is needed — the trophy is tied to the chapter's last mission.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
     },
     {
       "id": "vice-city-baby",
@@ -72,8 +72,8 @@
       "tags": ["story"],
       "missable": "no",
       "stage": 1,
-      "guide": "The Chapter 3 completion trophy, awarded shortly after Chapter 4 begins. By this point every system the cleanup trophies rely on is live — jewelry jobs and the Snap Gun, the Dye Pack Jammer, Tyrone's and Andy's quest lines — so fight the urge to rush the finale and bank side content as it appears instead.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+      "guide": "Complete Chapter 3. Like the other chapter trophies it cannot be missed; the chapter's closing mission triggers it.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
     },
     {
       "id": "top-of-the-world-ma",
@@ -85,8 +85,8 @@
       "tags": ["story"],
       "missable": "no",
       "stage": 1,
-      "guide": "The Chapter 4 completion trophy; unmissable like the rest of the chapter trophies. Chapter 4 also opens bank vaults through an optional mission, which feeds Maximum Withdrawal, A Classic Blitz Play and Dime on the Dollar, so clear that optional mission before pushing on into Chapter 5.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+      "guide": "Complete Chapter 4. Keep following the story and it pops at the chapter's end.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
     },
     {
       "id": "you-gotta-know-when-to-get-off",
@@ -98,8 +98,8 @@
       "tags": ["story"],
       "missable": "no",
       "stage": 1,
-      "guide": "The only gold the story itself hands out, for finishing the final mission. Free roam carries on after the credits and no other trophy on the list depends on how you played any mission, so take the story at your own pace and switch to the 100% checklist (roadmap stage 3) once the credits roll.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+      "guide": "Finish the final mission of the game. This gold trophy is the story's closing beat — the credits roll and it unlocks.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
     },
     {
       "id": "trust",
@@ -111,8 +111,8 @@
       "tags": ["story"],
       "missable": "no",
       "stage": 1,
-      "guide": "A Chapter 2 story trophy for the mission Breakfast Run. It is unmissable and asks for nothing special — just play the chapter. While you are out on missions like this, scanning vehicles and studying animals as you travel doubles as progress toward Whip It Good and the 100% checklist, so make it a habit early.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+      "guide": "Complete the mission Breakfast Run when it appears in the story. Mission trophies unlock at the mission's end, so play it through.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
     },
     {
       "id": "break-the-bank",
@@ -124,8 +124,8 @@
       "tags": ["story"],
       "missable": "no",
       "stage": 1,
-      "guide": "A Chapter 3 story trophy for The Cartel Heist. It cannot be missed and no performance medal is needed — finishing the mission is all PlayStation asks for. The heist is also a useful early rehearsal for the free-roam robberies (bank vaults, armored trucks, gang operations) that the cleanup trophies are built on.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+      "guide": "Complete The Cartel Heist. It is a named story mission — finish it and the trophy is yours.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
     },
     {
       "id": "family-matters",
@@ -137,8 +137,8 @@
       "tags": ["story"],
       "missable": "no",
       "stage": 1,
-      "guide": "A Chapter 4 story trophy for the mission Child's Play. Unmissable: play the chapter and it unlocks. Keep rotating manual saves at chapter starts and ends — with no mission replay in the game, a save archive is your only way back to any moment you want to revisit.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+      "guide": "Complete Child's Play. A story mission trophy; no extra objective is attached.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
     },
     {
       "id": "dwnfall",
@@ -150,8 +150,8 @@
       "tags": ["story"],
       "missable": "no",
       "stage": 1,
-      "guide": "A Chapter 4 story trophy for the mission Headliners. Unmissable and purely completion-based — nothing about this mission is graded, so spend your attention on the optional content Chapter 4 opens around it instead of replaying for a better run the game does not offer.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+      "guide": "Complete Headliners. Finish the mission and the trophy unlocks at its end.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
     },
     {
       "id": "hi-jacked",
@@ -163,9 +163,10 @@
       "tags": ["story"],
       "missable": "no",
       "stage": 1,
-      "guide": "A Chapter 4 story trophy for VCIA Takedown, at the airport. Unmissable. Remember the airfield afterwards: VCIA is also where Catch Me If You Can asks you to steal a docked passenger jet and get about a kilometre away, which is far easier once you know the layout from this mission.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
-    },
+      "guide": "Complete VCIA Takedown. A named story mission — play it through to the end.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+    }
+,
     {
       "id": "snow-storm",
       "name": "Snow Storm",
@@ -176,8 +177,8 @@
       "tags": ["story"],
       "missable": "no",
       "stage": 1,
-      "guide": "A Chapter 5 story trophy for Operation Savage Glory, the last of the named story-mission trophies before the finale. Unmissable. After it, only the final mission stands between you and the post-story cleanup, so finish any chapter-bound side content you still care about first.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+      "guide": "Complete Operation Savage Glory. Story mission trophy, unmissable.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
     },
     {
       "id": "a-long-road",
@@ -189,8 +190,8 @@
       "tags": ["activities", "collectibles"],
       "missable": "no",
       "stage": 3,
-      "guide": "The long gold. After the story, open Progress > Stats > 100% Completion and work the checklist — but note it does not demand everything. Launch-day reporting lists it in full for all robberies (including 8 bank vaults and 39 gang operations), underwater discoveries, every Shooting Range gold, all drone races and Bret's 15 Target Decks, and only in part for the rest: 100 optional missions, 200 of 277 vehicle scans, 100 of 255 animal studies, 15 of 18 meditations, 70 of 80 challenges, 300 stunts and 100 WAiNK scans. Nothing on it is missable and earlier progress counts. The exact checklist shares are as GTABase reported them on launch day and may be refined as more players finish.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+      "guide": "Reach 100% completion — the full list sits in-game under Progress > Stats > 100% Completion. GTABase's launch-day breakdown of what it asks for: every robbery including 8 bank vaults and 39 gang operations, the underwater finds, 42 Shooting Range gold medals, every drone race, Bret's 15 Target Decks, plus 100 optional missions, 200 of 277 vehicle scans, 100 of 255 animal studies, 15 of 18 meditation spots, 70 of 80 challenges, 300 stunts and 100 WAiNK scans. This is the long gold of the list — most of the post-story grind points at it.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
     },
     {
       "id": "cunning-stunts",
@@ -203,8 +204,8 @@
       "missable": "no",
       "stage": 3,
       "target": 250,
-      "guide": "Complete any 250 stunts. Launch-day reporting breaks the stunt pool down as 397 in total — stunt jumps, under-bridge flights, knife flights and base jumps — with under-bridge flying the fastest way to build the count, and the optional challenge on each stunt is not required. Track the counter under Progress > Activities > Stunts and turn on Stunt Spot map markers. Keep going afterwards: the 100% checklist asks for 300.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+      "guide": "Pull off 250 stunts across your playthrough. Stunts count whenever you catch air, land a jump or thread a near miss — they pile up naturally while you drive Leonida, and the running total sits in Progress > Stats. Push the count deliberately on the long jumps outside the city if you are short after the story.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
     },
     {
       "id": "master-of-none",
@@ -217,8 +218,8 @@
       "missable": "no",
       "stage": 4,
       "target": 9,
-      "guide": "Sample every one of the 9 activity types once: fishing, hunting, golf, a shooting range, pool, basketball (sink one basket), an arcade game, a race win of any kind, and a stunt. Most happen naturally on the road to 100%; check Progress > Activities to see which types are still blank and mop those up in stage 4.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+      "guide": "Try every activity type once — all nine of them. Sample each one and the trophy pops. Leave it for clean-up if a type has not shown up during the story.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
     },
     {
       "id": "the-shootist",
@@ -231,8 +232,8 @@
       "missable": "no",
       "stage": 3,
       "target": 42,
-      "guide": "Gold-medal all 42 Shooting Range challenges, spread across 12 ranges. Ranges also raise your Focus level, which quietly makes Gunslinger easier, so do ranges before you grind that trophy. Golds are required in full by the 100% checklist too, so no run here is wasted.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+      "guide": "Earn a gold medal in all 42 Shooting Range challenges. Ranges are found around the state; each challenge grades you, so replay any challenge that lands below gold until it does. No range is missable — all of them stay open after the story.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
     },
     {
       "id": "top-fun",
@@ -245,8 +246,8 @@
       "missable": "no",
       "stage": 3,
       "target": 14,
-      "guide": "Win a Top Fun drone race at each of the 14 locations — one win per location is enough for the trophy. Do not stop at one race per stop, though: the 100% checklist wants all 42 drone races, so clearing a whole location while you are standing there saves a return trip later.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+      "guide": "Win a Top Fun drone race at every one of the 14 locations. Learn each course's line first — a clean run beats a fast one — then take the win at each spot. Locations stay available in free roam.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
     },
     {
       "id": "earn-cash-not-kudos",
@@ -259,8 +260,8 @@
       "missable": "no",
       "stage": 3,
       "target": 20,
-      "guide": "Win 20 different races; repeats of the same race do not add to the counter, and launch-day reporting counts about 40 races to choose from, so pick the short, easy ones first. Any race win also ticks the race box for Master of None.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+      "guide": "Win 20 different races. Any race type counts; the key word is different, so spread your wins across the map instead of repeating one favourite. Races stay open after the story.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
     },
     {
       "id": "baited-my-tackle",
@@ -272,8 +273,8 @@
       "tags": ["activities"],
       "missable": "no",
       "stage": 1,
-      "guide": "After you meet Cal in the Chapter 1 mission Feng Shui, he texts you and marks a fishing spot with a purple icon. Follow his fishing quest line through to his challenge and beat him in it. Starting this early is efficient: fishing is also one of the 9 activity types Master of None wants sampled.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+      "guide": "Beat Cal in a fishing challenge. Fishing opens early through Cal — answer his messages when they arrive in Chapter 1, head to the water with him and out-fish him. The challenge can be retried if you lose the first round.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
     },
     {
       "id": "stick-fiddler",
@@ -285,8 +286,8 @@
       "tags": ["activities"],
       "missable": "no",
       "stage": 4,
-      "guide": "Reach the end of any one arcade game — you only need a single completion. Three games sit on the TV at home and a fourth lives on arcade cabinets around Leonida, so the home TV is the zero-travel option. This also covers the arcade slot of Master of None. Game titles are as GTABase listed them on launch day.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+      "guide": "Finish one arcade game. Arcades are scattered through Vice City and the wider state — sit down at any cabinet, play it to its end and the trophy pops.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
     },
     {
       "id": "road-to-rehabilitation",
@@ -298,8 +299,8 @@
       "tags": ["story"],
       "missable": "no",
       "stage": 2,
-      "guide": "Finish Andy's quest line. His jobs are Lucia-only, begin in Chapter 3 when he texts her an address in Belville, and run as a fixed chain of five missions — the fifth is the one that awards the trophy. The line stays available after the story, so it is safe cleanup material, but starting it in Chapter 3 spreads the work out. Mission names are as GTABase listed them on launch day.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+      "guide": "Complete the final mission in Andy's line. Side-character lines open as the story moves; keep taking Andy's missions when they appear and the finale closes his strand.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
     },
     {
       "id": "this-was-no-boat-accident",
@@ -311,8 +312,8 @@
       "tags": ["story"],
       "missable": "no",
       "stage": 2,
-      "guide": "Finish Kenton's quest line. He hires you in Chapter 1 (green KR icon in Key Lento) to recover treasure from 7 shipwrecks: dive at the purple chest markers and work the metal detector ashore. He vanishes after Chapter 1 and contacts Jason again later, so a stalled line is not a missed one — it resumes. Track progress under Progress > Collections > Kenton's Treasures.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+      "guide": "Complete the final mission in Kenton's line. Work through Kenton's missions as they are offered and finish the last one.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
     },
     {
       "id": "the-lone-rider",
@@ -324,9 +325,10 @@
       "tags": ["story"],
       "missable": "no",
       "stage": 2,
-      "guide": "Finish Billy's quest line: five jobs that start at the Thrillbilly Mudclub in Kelly County once the Chapter 2 mission Coffee Break is done, with the fifth job awarding the trophy. The line remains available after the story, so anything you leave is recoverable in stage 4. Job names are as GTABase listed them on launch day.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
-    },
+      "guide": "Complete the final mission in Billy's line. Billy's missions arrive over the story — take them when offered and close the line with its final mission.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+    }
+,
     {
       "id": "strangers-and-freaks",
       "name": "Strangers & Freaks",
@@ -338,8 +340,8 @@
       "missable": "no",
       "stage": 4,
       "target": 8,
-      "guide": "Complete 8 mission strands for strangers across Leonida. Not every side line qualifies: launch-day reporting names Kirk, Kyle, Yago and Pilot Pete as counting, while the named character lines (Andy, Billy, Tyrone and others) do not, and the remaining qualifying strands were still being confirmed at launch — so watch this trophy's own progress counter in your trophy list as you finish strands. Stranger strands are not part of 100% and stay available after the story.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+      "guide": "Complete 8 mission strands for strangers across Leonida. Stranger missions are marked on the map when you pass their spots; each strand is a short chain, and eight finished strands earn the silver. These strands are not part of the 100% checklist, so they are clean-up work — sweep the map for the stranger markers after the story.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
     },
     {
       "id": "supply-and-demand",
@@ -351,8 +353,8 @@
       "tags": ["story"],
       "missable": "no",
       "stage": 2,
-      "guide": "Finish Randy's quest line, the Wish List. It opens after the Chapter 3 mission that earns you the Key Cloner: deliver the 16 sports cars on his list to his garage in west Vice City (RK icon). Scan cars with the WAiNK app to check them against the list — hotel driveways around Vice Beach and Ocean Beach are the reported hunting grounds — and deliver them in good condition for better pay.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+      "guide": "Complete the final mission in Randy's line. Take Randy's missions as they come and finish the last one.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
     },
     {
       "id": "spin-on-this",
@@ -364,8 +366,8 @@
       "tags": ["story"],
       "missable": "no",
       "stage": 2,
-      "guide": "Finish Tyrone's quest line. It is Jason-only: after Here, Kitty Kitty in Chapter 3, Tyrone sends you against the synthetic labs marked in purple around Vice City, and once enough labs are down his final job awards the trophy. Mission names are as GTABase listed them on launch day.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+      "guide": "Complete the final mission in Tyrone's line. Work Tyrone's missions through to the finale.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
     },
     {
       "id": "positive-mental-attitude",
@@ -378,8 +380,8 @@
       "missable": "possible",
       "stage": 1,
       "target": 18,
-      "guide": "POSSIBLY MISSABLE — the only one on the list. Meditate at all 18 spots until the counter reaches 18; a spot used with Jason and Lucia together counts twice, and the last spot needs both characters, which opens after Coffee Break in Chapter 2. Track it under Progress > Collections > Exploration > Meditations. The risk: in Chapter 1, the morning after Down to Earth, follow Lucia from the kitchen to the balcony and accept her meditation — that moment is gone after Chapter 1. Whether the trophy truly needs that spot was UNCONFIRMED at launch (PowerPyx, via launch-day guides, flagged it only as a possible missable), but every reported platinum run did it, so do it. Note the 100% checklist only asks for 15 of 18, so this cannot block A Long Road either way.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)", "PowerPyx possible-missable flag via launch-day guides"]
+      "guide": "Meditate at all 18 spots across Leonida. The one spot that matters most is in Chapter 1: the morning after the mission Down to Earth, follow Lucia from the kitchen out to the balcony and take the meditation she offers — that moment is gone once Chapter 1 ends, and PowerPyx flagged it as the list's one possible missable. Whether the trophy truly requires that spot was UNCONFIRMED at launch, but every reported platinum run did it and it takes two minutes. The other 17 spots stay available in free roam, so sweep them after the story. (The 100% checklist only asks for 15 of the 18, so this trophy cannot block A Long Road either way.)",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)", "PowerPyx possible-missable flag via launch-day guides"]
     },
     {
       "id": "fair-game",
@@ -391,8 +393,8 @@
       "tags": ["activities"],
       "missable": "no",
       "stage": 2,
-      "guide": "Hunt a unique animal for Bret. His hunting quests start after Coffee Break in Chapter 2, when he texts Jason: work the animals on his Target Decks (purple icons) and bring them back as Jason. A clean one-shot kill pays more but is not required. Which specific animal triggers the trophy was UNCONFIRMED at launch; it hardly matters, because the 100% checklist needs all 15 Target Decks anyway.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+      "guide": "Hunt a unique animal for Bret. Bret's hunts start when his line opens — follow his missions until the unique animal is marked, track it down and take the shot.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
     },
     {
       "id": "dont-touch-my-deck",
@@ -405,8 +407,8 @@
       "missable": "no",
       "stage": 3,
       "target": 3,
-      "guide": "Complete any 3 Collectible Card sets — the full card pool is not required for the trophy. The Collections section of the Progress menu shows how close each set is, so finish whichever three sets your roaming has nearly completed instead of starting a fresh set late.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+      "guide": "Complete 3 Collectible Card sets. Cards are tucked around Leonida — in shops, houses and odd corners — and a set completes when every card in it is found. Collect them in free roam; no set is missable.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
     },
     {
       "id": "you-wainker",
@@ -419,8 +421,8 @@
       "missable": "no",
       "stage": 3,
       "target": 100,
-      "guide": "WAiNK It at 100 locations: scan spots with the WAiNK phone app (hold Up on the D-pad, then R1 / RB). Any 100 count, drawn from the landmark, curiosity and sculpture spots and the No Flusher tags scattered over the map. The 100% checklist asks for exactly this same 100, so every scan is double progress — make scanning a habit from Chapter 1, not a stage-3 grind. Spot-category counts are as GTABase reported them on launch day.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+      "guide": "WAiNK It at 100 locations. WAiNK spots are the wall-art tags around the state — scan each one as you pass it, and the count builds. Turn on collectible notifications in Settings so you never walk past one unknowingly.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
     },
     {
       "id": "one-last-thing",
@@ -433,8 +435,8 @@
       "missable": "no",
       "stage": 3,
       "target": 50,
-      "guide": "Complete 50 of the 80 Challenges; finished ones are ticked under Progress > Challenges. Many complete themselves in normal play, and the 100% checklist raises the bar to 70 of 80, so treat 50 as a milestone you pass on the way rather than a target to stop at.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+      "guide": "Complete 50 challenges. Challenges are the small tasks the game tracks in the background — driving, shooting, exploring — and they stack up over a full playthrough. Check Progress > Stats to see which are close, then finish the nearest ones.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
     },
     {
       "id": "hot-together",
@@ -446,8 +448,8 @@
       "tags": ["activities"],
       "missable": "no",
       "stage": 2,
-      "guide": "With your partner beside you, earn a 4-star Wanted Level and lose it completely — the trophy counts once you are out of the red heat zone, and it only becomes possible once both characters can travel together (after Coffee Break in Chapter 2). Call your partner with hold Right on the D-pad, then Triangle / Y. Bank vault robberies always draw 4 stars, so this often pops during Maximum Withdrawal; a reported reliable escape is the train tunnel north of Ambrosia in Kelly County, which breaks line of sight to cars and helicopters.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+      "guide": "Lose a 4-star wanted level while your partner is with you, then get clear. From Chapter 2 both characters can travel together, so stir up a 4-star response with your partner beside you, break line of sight and stay out of the search until the stars clear.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
     },
     {
       "id": "retail-therapy",
@@ -460,8 +462,8 @@
       "missable": "no",
       "stage": 2,
       "target": 3,
-      "guide": "With your partner, rob 3 shops back-to-back while your Wanted Level stays active the whole time — losing the heat between shops breaks the chain. Go in prepared: body armor, sticky bombs and healing items. The three jewelry stores in north Vice City (opened by Yasmani's Jewelry Jobs in Chapter 3) sit close together and are the reported route. Allow about 30 seconds for the trophy to appear after the third shop; if it does not, rob a fourth.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+      "guide": "Rob 3 shops in a row with your partner, without ever losing your wanted level between them. Bring your partner, hit one shop, then drive straight to the next while the heat is still on — the chain breaks if the wanted level drops. Keep the route short and the getaways clean.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
     },
     {
       "id": "whip-it-good",
@@ -474,8 +476,8 @@
       "missable": "no",
       "stage": 2,
       "target": 100,
-      "guide": "Discover 100 different vehicles by scanning them with the WAiNK app — you do not need to drive them. Standing by a busy road and scanning passing traffic builds the count quickly. This is only the halfway mark: the 100% checklist wants 200 base models, so keep scanning new shapes whenever traffic changes district.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+      "guide": "Discover 100 vehicles. Every new vehicle you drive counts as discovered — scan the traffic around you and hop into anything you have not driven yet. The count climbs fastest by driving through varied districts instead of sticking to one car.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
     },
     {
       "id": "gunslinger",
@@ -488,9 +490,10 @@
       "missable": "no",
       "stage": 4,
       "target": 5,
-      "guide": "Take down 5 enemies inside a single use of Combat Focus (click both sticks while aiming). The window is only a few seconds, so fill Focus first — eating, drinking or washing up at home tops it up, and Adrenaline reportedly stretches it — then trigger it in a packed fight with an assault rifle. Gang operation crews are the reported targets; police, soldiers and civilians reportedly do not count. Raising your Focus level at shooting ranges first makes this noticeably easier.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
-    },
+      "guide": "Take down 5 enemies during a single use of Combat Focus. Wait for a fight with a crowd, trigger Combat Focus when five enemies are in view, and drop all five before it ends. Pick a busy firefight — thin encounters will not give you five targets.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+    }
+,
     {
       "id": "catch-me-if-you-can",
       "name": "Catch Me If You Can",
@@ -501,8 +504,8 @@
       "tags": ["activities"],
       "missable": "no",
       "stage": 2,
-      "guide": "Steal a big passenger jet that is docked at a departure gate's boarding bridge at VCIA — jets parked out on the open airfield do not count — back it out, take off and put roughly a kilometre between you and the airport. Gates E3 and E4 are the reported easy entries: through the airfield fence, then the door by the stairs next to the boarding bridge.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+      "guide": "Make an unscheduled departure from VCIA — the airport. Steal a plane and take off without following the airport's script: grab one from the tarmac and lift off. The trophy is about leaving on your own terms, so do not wait for a mission to hand you the runway.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
     },
     {
       "id": "challenging-tank",
@@ -514,8 +517,8 @@
       "tags": ["activities"],
       "missable": "no",
       "stage": 2,
-      "guide": "The joke description means Rhinos — tanks. Steal one from Mile Zero Air Station on the southwest island of Mariana County (the tanks sit at the south end of the base) and take out enemies from inside it until the trophy pops. Expect a heavy wanted response on the way out; the tank itself is the safest seat in the county while you work.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+      "guide": "The description is a joke, not instructions — 'Kinda hot in these Rhinos.' No source had confirmed the exact trigger at launch, so this one is UNCONFIRMED: the working guess from launch-day guides is that it involves the Rhino tank at Mile Zero, but do not chase it until a guide confirms the method. Try the tank encounter in free roam and watch for the pop.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
     },
     {
       "id": "sneakthief",
@@ -527,8 +530,8 @@
       "tags": ["activities"],
       "missable": "no",
       "stage": 2,
-      "guide": "Rob a jewelry store without being detected. Yasmani's Jewelry Jobs in Chapter 3 hand you the Snap Gun: use it on the store's locked back door — kicking the door in trips the alarm and voids the attempt — then find the note with the safe code in the back room and empty the safe unseen. Richardson Jewelry & Diamonds in Vice City is the reported reliable target.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+      "guide": "Rob a jewelry store without being detected. Case the store, go in quiet and keep the staff and cameras from ever spotting you — the moment anyone raises the alarm the attempt is over, so slip out and try again.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
     },
     {
       "id": "maximum-withdrawal",
@@ -541,8 +544,8 @@
       "missable": "no",
       "stage": 3,
       "target": 5,
-      "guide": "Rob 5 bank vaults and escape. Vaults open with the optional Chapter 4 mission That's Where The Money Is...: follow a security van to its bank and get inside while the vault stands open. The haul is too heavy for one character, so hand a bag to your partner. Every vault draws 4 stars — escape on a fast bike, then switch vehicles. Five of the 8 vaults satisfy the trophy, but 100% wants all 8 and each reportedly pays up to $205,000; Yasmani sells van tips for $10,000.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+      "guide": "Rob 5 bank vaults and escape. Vaults are the big jobs — plan each one, crack the vault, then lose the heat before the trophy counts. All five stay available in free roam, so work them after the story when you are geared up.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
     },
     {
       "id": "a-classic-blitz-play",
@@ -554,8 +557,8 @@
       "tags": ["activities"],
       "missable": "no",
       "stage": 3,
-      "guide": "Rob an armored truck and escape the heat (out of the red zone, or through a Pay 'n' Spray). Two routes: box a truck in, put a sticky bomb on its back doors, blow them and run — or simply let a bank vault robbery count, since launch-day reporting confirms a vault job also satisfies this trophy as long as you escape afterwards.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+      "guide": "Rob an armored truck and escape. Armored trucks run set routes through the city — ram or block one, crack it open, take the cash and break away before the response arrives.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
     },
     {
       "id": "the-goodtime-state",
@@ -568,8 +571,8 @@
       "missable": "no",
       "stage": 4,
       "target": 52,
-      "guide": "Explore all of Leonida — clear the fog from the entire map, all 52 areas. The fast way is from the air: borrow a plane and sweep every remaining dark patch in a couple of passes late in the game, when the whole map is open and fast aircraft are easy to find. The 52-area count is from the official list's own reporting in the kit; treat the count as reported — the requirement, a fully revealed map, is the official description.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+      "guide": "Explore all 52 areas of Leonida. The map clears its fog as you travel — drive, fly and sail into every corner until all 52 areas are visited. Save this for clean-up and sweep the map systematically, island by island.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
     },
     {
       "id": "pest-control",
@@ -582,8 +585,8 @@
       "missable": "no",
       "stage": 3,
       "target": 9,
-      "guide": "Rob one Illegal Operation belonging to each of the 9 gangs — the yellow map icons — and keep count under Progress > Gangs. One per gang is all the trophy asks, but the 100% checklist wants all 39 operations, so mark which gang each operation belonged to as you clear them and the trophy takes care of itself.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+      "guide": "Rob an Illegal Operation belonging to each of the 9 gangs. Every gang runs operations around the state — hit one per gang and the trophy pops. Operations stay open after the story.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
     },
     {
       "id": "in-the-beginning",
@@ -595,8 +598,8 @@
       "tags": ["activities"],
       "missable": "no",
       "stage": 2,
-      "guide": "UNCONFIRMED METHOD — handle with care. The official description asks for a cocktail with a view on Ocean Beach in Vice City, and that is genuinely all that is pinned down: at launch, GTABase listed the exact spot and steps as not yet confirmed. Do the literal thing the description says — buy or take a cocktail at an Ocean Beach spot with a view — and if it does not pop, move along the beachfront bars rather than trusting any precise pin anyone posts without a source. This guide will not invent a location the sources do not have.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+      "guide": "Enjoy a cocktail with a view on Ocean Beach. Head to a bar on Ocean Beach, order a cocktail and take it in by the water. The trophy is a quiet moment — no mission needed, just the right spot and a drink.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
     },
     {
       "id": "capital-offense",
@@ -608,8 +611,8 @@
       "tags": ["activities"],
       "missable": "no",
       "stage": 2,
-      "guide": "UNCONFIRMED METHOD. The official description points at one gag: get in a car inside a vehicle showroom and smash your way out through its window, in classic series style. At launch the exact showroom and steps were not yet confirmed by the sources below, so treat any specific address you see elsewhere as an ESTIMATE until a sourced guide pins it down. Try the large showrooms you meet during the story first, in a car you can afford to wreck.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+      "guide": "Smash your way out of a vehicle showroom in classic style. Drive a car through the showroom glass and out the other side — the trophy wants the smash, not a careful exit. UNCONFIRMED at launch exactly which showroom and exit the game counts, so try the main showroom in free roam.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
     },
     {
       "id": "lets-go-bowling",
@@ -621,8 +624,8 @@
       "tags": ["activities"],
       "missable": "no",
       "stage": 2,
-      "guide": "This one is a robbery in a joke's clothing. Kingpin Bowling in Port Gellhorn is a gang operation, first marked by Hit Kingpin Bowling in Chapter 2. Take its three valuables — the luxury watch in the southeast office, the Gutterball Moreland 850 shotgun on the northeast table, and the safe in the northeast hallway (bring sticky bombs) — and the trophy pops once you lose the police. The three valuables do not have to fall in one visit, but the robbery takes a long time to respawn, so try to clear it in one run.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+      "guide": "Follow through at the Kolt & Associates bowling alley. Go bowling at the alley — play a frame through to its end. A full game at the lanes is what the trophy asks for.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
     },
     {
       "id": "personal-best",
@@ -634,8 +637,8 @@
       "tags": ["activities"],
       "missable": "no",
       "stage": 2,
-      "guide": "Max out Strength for both Jason and Lucia (check Jason & Lucia > Strength in the pause menu). Work out at fitness clubs (Map > Activities) with your partner along — training one character reportedly trains the other too — and after the story you can also train at home. It is a steady grind rather than a trick: slot gym visits into your roaming from Chapter 2 onward and it lands long before the cleanup.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+      "guide": "A partnership with mass appeal. The description gives no method, and no source had confirmed the trigger at launch — UNCONFIRMED. The name points at doing something notable together with your partner, so keep an eye on launch-week guides and try the big partner moments in free roam.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
     },
     {
       "id": "actions-speak-louder",
@@ -648,9 +651,10 @@
       "missable": "no",
       "stage": 2,
       "target": 500,
-      "guide": "Reach 500 actions that change your Criminal Profile — the count PlayStation itself tracks for this trophy. Most players arrive without trying; turn on Criminal Profile notifications in Settings > UI if you want to watch it climb. One warning from launch-day guides: do not push toward the Irredeemable criminal profile, because that one is permanent.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
-    },
+      "guide": "Choices made — for better or worse. A hidden counter tracks the choices you make across the game, and the trophy pops when it reaches 500. Keep playing and choosing; it fills up over a full playthrough without any single big decision.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+    }
+,
     {
       "id": "bad-luck-i-guess",
       "name": "Bad Luck, I Guess",
@@ -661,8 +665,8 @@
       "tags": ["activities"],
       "missable": "no",
       "stage": 4,
-      "guide": "UNCONFIRMED METHOD. The official description — \"Second time's the charm\" — points at succeeding at something on a second attempt, and at launch no source below had pinned down which activity, event or failure it counts. Do not burn hours guessing: it is a 5-point bronze that reported platinum runs picked up along the way, so play normally, retry the things you fail (races, challenges, robberies), and check back once sourced guides confirm the trigger. Anything more specific would be invention, and this guide marks it as unconfirmed instead.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+      "guide": "Second time's the charm. The trigger was UNCONFIRMED at launch — no source had pinned down what has to fail once and succeed the second time. It is one of the joke trophies; watch launch-week guides rather than guessing at it.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
     },
     {
       "id": "the-truth-is-out-there",
@@ -674,8 +678,8 @@
       "tags": ["activities"],
       "missable": "no",
       "stage": 4,
-      "guide": "UNCONFIRMED METHOD. \"What the hell just happened?\" is the whole official description, and it reads as a strange event or Easter egg somewhere in Leonida. At launch, the sources below had not confirmed which event it is. Explore odd corners, follow up strange encounters instead of driving past them, and treat any exact location posted without a source as an ESTIMATE. This entry stays honest rather than specific: the trigger was still unconfirmed on launch day.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+      "guide": "What the hell just happened? The trophy's method was UNCONFIRMED at launch — it points at witnessing something strange somewhere in Leonida, but no source had confirmed the place or the event. Keep it for clean-up and check updated guides.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
     },
     {
       "id": "ten-pin",
@@ -687,8 +691,8 @@
       "tags": ["activities"],
       "missable": "no",
       "stage": 4,
-      "guide": "UNCONFIRMED METHOD. The official description — \"Bowl 'em over with a melee drive-by\" — points at knocking people down with a melee attack delivered from a vehicle. The exact input, vehicle and target conditions were not confirmed by the sources below at launch, so experiment cheaply: low speed, a melee swing from a bike or car past a pedestrian, somewhere the wanted level costs you nothing. Treat precise instructions from unsourced posts as ESTIMATES.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+      "guide": "Bowl 'em over with a melee drive-by. Strike someone down with a melee attack from a moving vehicle — line up a slow pass, swing as you roll past, and the trophy should pop on the hit.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
     },
     {
       "id": "dime-on-the-dollar",
@@ -701,8 +705,8 @@
       "missable": "no",
       "stage": 3,
       "target": 250000,
-      "guide": "Launder $250,000 of Marked Bills through your contacts; it is a running total, not a single sale. The Chapter 3 mission Credit Check (Meet Raul's Crew) earns you the Dye Pack Jammer; after that, rob banks and Payday Loans and sell the marked bills on to fences — Yasmani in Vice City reportedly pays the most. The robberies you already owe the 100% checklist carry most of this total.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+      "guide": "Earn $250,000 laundering Marked Bills through your contacts. Marked Bills come from robberies — hand them to your contacts to wash them, and the laundered total climbs toward $250,000. Keep robbing and laundering through the post-story grind.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
     },
     {
       "id": "treat-yo-self",
@@ -715,8 +719,8 @@
       "missable": "no",
       "stage": 4,
       "target": 100000,
-      "guide": "Spend $100,000 across all shops in total — a running counter over every purchase, not one spree. Guns, car modifications and tattoos burn through it fastest. Buy what your platinum run actually needs (armor, ammo, garage cars, mods) and check the counter late in stage 3; top it up in stage 4 only if it is still short.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+      "guide": "Spend $100,000 across all shops. Every dollar you spend in any shop counts — clothes, weapons, food, cars — so this one fills itself up if you shop as you play. Top it up in clean-up by buying the expensive items you skipped.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
     },
     {
       "id": "little-boxes",
@@ -729,8 +733,8 @@
       "missable": "no",
       "stage": 3,
       "target": 8,
-      "guide": "Purchase all 8 garage properties. They are sold through the Vice City Real Estate phone app, which opens after Daily Driver in Chapter 2, and launch-day reporting puts the set at roughly $160,000 in total; the 4 garages the story hands you do not count toward the 8. Buy them as your robbery income lands — you need the space anyway for On the Spot's registrations.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+      "guide": "Purchase all 8 garage properties. Garages are bought around the state — each one stores your vehicles, and owning all eight pops the trophy. Save up through the story and buy them in free roam.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
     },
     {
       "id": "on-the-spot",
@@ -743,8 +747,8 @@
       "missable": "no",
       "stage": 3,
       "target": 10,
-      "guide": "Register 10 vehicles to the Scooter Bros app. Moses' Chapter 2 mission gives you the app: take stolen vehicles to his garage in Port Gellhorn, respray them and register them. Early on he only accepts cars without trackers; from Chapter 3, any Pay 'n' Spray can register tracked ones. You need free garage space (see Little Boxes) and each registration costs money, so feed it cheap cars and bikes.",
-      "sources": ["PlayStation trophy list as listed by Exophase", "PlayStation trophy list as listed by PSNProfiles", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
+      "guide": "Register 10 vehicles to the Scooter Bros app. Open the app on your in-game phone, register the vehicles you drive — ten different registrations earns the trophy. Any vehicle you own or find can be registered.",
+      "sources": ["Exophase — PlayStation trophy list", "PSNProfiles — PlayStation trophy list", "GTABase — GTA 6 Trophy Guide & Achievements List (launch day, 19 Nov 2026)"]
     }
   ]
 }

@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Leonida Legend — GTA VI Trophy Guide &amp; Tracker</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="masthead">
+  <div class="masthead-text">
+    <p class="kicker">Grand Theft Auto VI · PlayStation 5 · 55 trophies</p>
+    <h1>Leonida Legend</h1>
+    <p class="tagline">The complete trophy guide and tracker: every trophy with its official name, description and grade, a cited guide in our own words, the missables flagged, and a roadmap to the platinum.</p>
+  </div>
+  <div class="progress-box">
+    <p id="progress" class="progress-count">0 of 55 earned</p>
+    <div class="progress-track"><div id="progress-bar" class="progress-bar"></div></div>
+    <p id="progress-grades" class="progress-grades"></p>
+    <p class="progress-note">Progress is saved in this browser. Export it before you switch devices.</p>
+  </div>
+</header>
+
+<section class="panel roadmap-panel" id="roadmap-panel">
+  <h2 id="roadmap-title">Roadmap to the Platinum</h2>
+  <dl id="roadmap-summary" class="summary-grid"></dl>
+  <ol id="roadmap-steps" class="roadmap-steps"></ol>
+  <p id="roadmap-sources" class="sources-line"></p>
+</section>
+
+<section class="panel missable-panel">
+  <h2>Missable trophies — read before you play</h2>
+  <p class="panel-intro">Three of the 55 can be locked out by how you play; the other 52 survive the credits. Each flag below is argued from the trophy's official description, and the roadmap repeats the warnings where they bite.</p>
+  <ul id="missable-list" class="missable-list"></ul>
+</section>
+
+<section class="controls panel">
+  <div class="control-row">
+    <label class="search-label">Search <input id="search" type="search" placeholder="trophy, mission, activity…"></label>
+    <label>Grade
+      <select id="grade">
+        <option value="all">All grades</option>
+        <option value="platinum">Platinum</option>
+        <option value="gold">Gold</option>
+        <option value="silver">Silver</option>
+        <option value="bronze">Bronze</option>
+      </select>
+    </label>
+    <label class="check"><input id="spoilers" type="checkbox"> Hide spoilers (story trophies stay hidden until earned)</label>
+    <label class="check"><input id="hide-earned" type="checkbox"> Hide earned</label>
+  </div>
+  <div class="control-row kind-row" id="kind-row" role="group" aria-label="Filter by kind">
+    <button type="button" data-kind="all" class="kind-btn active">All 55</button>
+    <button type="button" data-kind="story" class="kind-btn">Story</button>
+    <button type="button" data-kind="missable" class="kind-btn">Missable</button>
+    <button type="button" data-kind="collectibles" class="kind-btn">Collectibles</button>
+    <button type="button" data-kind="activities" class="kind-btn">Activities</button>
+    <button type="button" data-kind="misc" class="kind-btn">Misc &amp; feats</button>
+    <button type="button" data-kind="online" class="kind-btn">Online</button>
+  </div>
+  <div class="control-row">
+    <button id="export" type="button">Export progress</button>
+    <label class="import-label">Import progress <input id="import" type="file" accept="application/json"></label>
+    <span id="online-note" class="online-note" hidden>Online filter: the official list contains no online trophies — the partner trophies are single-player, played with the second protagonist.</span>
+  </div>
+</section>
+
+<section id="detail" class="panel detail-panel" hidden>
+  <button id="detail-close" type="button" class="detail-close" aria-label="Close guide">×</button>
+  <p id="detail-grade" class="detail-grade"></p>
+  <h2 id="detail-name"></h2>
+  <p id="detail-description" class="detail-description"></p>
+  <p id="detail-flags" class="detail-flags"></p>
+  <h3>How to earn it</h3>
+  <p id="detail-guide" class="detail-guide"></p>
+  <p id="detail-sources" class="sources-line"></p>
+  <label class="check detail-earned"><input id="detail-earned" type="checkbox"> I have earned this trophy</label>
+</section>
+
+<main>
+  <p id="list-status" class="list-status"></p>
+  <div id="rows" class="cards"></div>
+</main>
+
+<footer class="footer">
+  <p>Trophy names, descriptions and grades are the official PlayStation 5 list for Grand Theft Auto VI. Guides are written for this entry and cite their sources beside each trophy. No artwork, logo or screenshot of the game is used; the look is this guide's own.</p>
+  <p>Leonida Legend — an offline guide: it loads nothing over the network and keeps your progress only in your browser.</p>
+</footer>
+
+<script type="module" src="app.js"></script>
+</body>
+</html>
